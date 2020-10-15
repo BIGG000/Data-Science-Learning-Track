@@ -1,5 +1,5 @@
 # Data-Science-Learning-Track
-<img src = "ds.png">
+<img src = "images/ds.png">
 This repo just contains the project codes of the my practice during the Data Science Learning.
 
 ## Data Science
