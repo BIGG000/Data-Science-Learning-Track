@@ -15,7 +15,7 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
 * [Statistics with NumPy](#Statistics-with-NumPy)
 * [Hypothesis Testing with SciPy](#Hypothesis-Testing-with-SciPy)
 * [Data Cleaning](#Data-Cleaning)
-* [Data Minning](#Data-Minning)
+* [Data Mining](#Data-Minning)
 * [Data Anaylsis](#Data-Anaylsis)
 * [Web Scrapping](#Web-Scrapping)
 * [Machine Learning](#Machine-Learning)
@@ -32,7 +32,7 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
 	 	* [AI Decision Making : Minimax](#AI-Decision-Making-:-Minimax)
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
-	* [Natrual language Processing](#Natruallanguage-Processing)
+	* [Natrual language Processing](#Natrual-language-Processing)
 	
 ### List of Content
  
@@ -63,4 +63,4 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
  ###### AI Decision Making : Minimax
  ##### Unsupervised Learning
  ##### Preceptron and Neural Nets
- ##### Natrual Language Processing
+ ##### Natrual language Processing
