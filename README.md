@@ -8,7 +8,7 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
 ## Things I learned
 Tools and techniques which i learn during this are ;
 * [SQL](#SQL)
-* [SQL Features Churn Analysis , Funnel Analysis & Marketing Attribution](#SQL-Features)
+* [SQL Features (Churn Analysis, Funnel Analysis & Marketing Attribution)](#SQL-Features)
 * [Python](#Python)
 * [Pandas](#Pandas)
 * [Numpy](#Numpy)
@@ -26,18 +26,16 @@ Tools and techniques which i learn during this are ;
 		* [Multiple Linear Regression](#Multiple-Linear-Regression)
 		* [K- Nearest Neighbors Regression](#K-Nearest-Neighbors-Regression)
 		* [Classification](#Classification)
-		* [Classification - K- Nearest Neighbors](#Classification-K-Nearest-Neighbors)
 		* [Logistic Regression](#Logistic-Regression)
 		* [Support Vector Machine](#Support-Vector-Machine)
 		* [Decision Tree](#Decision-Tree)
 		* [Navies Bayes](#Navies-Bayes)
-	 	* [AI Decision Making](#AI-Decision-Making)
+	 	* [AI Decision Making (MiniMax_)](#AI-Decision-Making(MiniMax)
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
 	* [Natrual language Processing](#Natrual-language-Processing)
 	
 ### List of Content
- 
   #### SQL
 SQL (Structured Query Language) is a programming language used to communicate with data stored in a relational database management system. SQL syntax is similar to the English language, which makes it relatively easy to write, read, and interpret.
 
@@ -56,15 +54,15 @@ Clicking “Continue” on each step of a set of 5 onboarding modals
 Browsing a selection of products → Viewing a shopping cart → Making a purchase
 Generally, we want to know the total number of users in each step of the funnel, as well as the percent of users who complete each step.
 
+
  * ##### Churn Anaylsis
  Customer churn is when a customer decides to stop using products or services from a company. Churn rate is the percent of subscribers that have canceled within a certain period.
  
- <img src = "images/churnrate.png">
-
  Calculation of a monthly customer churn rate is the number of customers who churned in the month divided by the total number of customers in the month. For example, if you had 100 customers at the beginning of the month and during month 5 of them canceled their subscriptions, customer churn rate is 5% (5/100). Here is a simple formula for calculating customer churn:
 
 * ##### Marketing Attribuitions
 The Short Definition: Put simply, marketing attribution is the analytical science of determining which marketing tactics are contributing to sales or conversions. Marketing attribution is the practice of evaluating the marketing touchpoints a consumer encounters on their path to purchase.
+
 
 
  #### Python
@@ -107,15 +105,30 @@ Hypothesis testing is an act in statistics whereby an analyst tests an assumptio
  ##### Supervised Learning
  Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
  ###### Linear Regression
+ Linear regression models are used to show or predict the relationship between two variables or factors. The factor that is being predicted (the factor that the equation solves for) is called the dependent variable.
  ###### Multiple Linear Regression
- ###### K- Nearest Neighbors Regression
+ Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. Multiple regression is an extension of linear (OLS) regression that uses just one explanatory variable.
+ ###### K-Nearest Neighbors Regression
+ K nearest neighbors is a simple algorithm that stores all available cases and predict the numerical target based on a similarity measure (e.g., distance functions). KNN has been used in statistical estimation and pattern recognition already in the beginning of 1970's as a non-parametric technique.
  ######  Classification
- ######  Classification - K- Nearest Neighbors
+ The definition of classifying is categorizing something or someone into a certain group or system based on certain characteristics. An example of classifying is assigning plants or animals into a kingdom and species. An example of classifying is designating some papers as "Secret" or "Confidential."
+  
  ######  Logistic Regression
+ Like all regression analyses, the logistic regression is a predictive analysis. Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
  ######  Support Vector Machine
+ A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text. So you're working on a text classification problem
  ######  Decision Tree
+ Decision Tree - Classification. Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes
  ######  Navies Bayes
- ###### AI Decision Making
+ A naive Bayes classifier assumes that the presence (or absence) of a particular feature of a class is unrelated to the presence (or absence) of any other feature, given the class variable. ... Basically, it's "naive" because it makes assumptions that may or may not turn out to be correct.
+ ###### AI Decision Making ( MiniMax )
+ Given a game state, the minimax algorithm finds the decision that maximizes the minimum gain. In other words, if you assume your opponent will make decisions that minimize your gain, the algorithm finds the move that will maximize it based on the options your opponent gives you.
+ 
  ##### Unsupervised Learning
+ Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. The most common unsupervised learning method is cluster analysis, which is used for exploratory data analysis to find hidden patterns or grouping in data.
  ##### Preceptron and Neural Nets
+ A Perceptron is an algorithm used for supervised learning of binary classifiers. Binary classifiers decide whether an input, usually represented by a series of vectors, belongs to a specific class. In short, a perceptron is a single-layer neural network
+ 
+ A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
  ##### Natrual language Processing
+ Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that studies how machines understand human language. Its goal is to build systems that can make sense of text and perform tasks like translation, grammar checking, or topic classification
