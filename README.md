@@ -121,7 +121,7 @@ Hypothesis testing is an act in statistics whereby an analyst tests an assumptio
  Decision Tree - Classification. Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes
  ######  Navies Bayes
  A naive Bayes classifier assumes that the presence (or absence) of a particular feature of a class is unrelated to the presence (or absence) of any other feature, given the class variable. ... Basically, it's "naive" because it makes assumptions that may or may not turn out to be correct.
- ###### AI Decision Making ( MiniMax )
+ ###### AI Decision Making (MiniMax)
  Given a game state, the minimax algorithm finds the decision that maximizes the minimum gain. In other words, if you assume your opponent will make decisions that minimize your gain, the algorithm finds the move that will maximize it based on the options your opponent gives you.
  
  ##### Unsupervised Learning
