@@ -55,6 +55,7 @@ Answering each part of a 5 question survey on customer satisfaction
 Clicking “Continue” on each step of a set of 5 onboarding modals
 Browsing a selection of products → Viewing a shopping cart → Making a purchase
 Generally, we want to know the total number of users in each step of the funnel, as well as the percent of users who complete each step.
+
 <img src = "images/funnels.png">
 
 
