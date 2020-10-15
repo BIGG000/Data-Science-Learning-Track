@@ -1,10 +1,12 @@
 # Data-Science-Learning-Track
 <img src = "ds.png">
 This repo just contains the project codes of the my practice during the Data Science Learning.
+
 ## Data Science
 Data science can be defined as a blend of mathematics, business acumen, tools, algorithms and machine learning techniques, all of which help us in finding out the hidden insights or patterns from raw data which can be of major use in the formation of big business decisions.
 
 ## Things I learned
+Tools and techniques which i learn during this are ;
 * [SQL](#SQL)
 * [SQL Features Churn Analysis , Funnel Analysis & Marketing Attribution](#SQL-Features)
 * [Python](#Python)
