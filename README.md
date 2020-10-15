@@ -10,38 +10,38 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
 * [Python](#Python)
 * [Pandas](#Pandas)
 * [Numpy](#Numpy)
-* [Matplotlib and Seaborn](#MatplotlibandSeaborn)
-* [Statistics with Python](#StatisticswithPython)
-* [Statistics with NumPy](#StatisticswithNumPy)
-* [Hypothesis Testing with SciPy](#HypothesisTestingwithSciPy)
-* [Data Cleaning](#DataCleaning)
-* [Data Minning](#DataMinning)
-* [Data Anaylsis](#DataAnaylsis)
-* [Web Scrapping](#WebScrapping)
-* [Machine Learning](#MachineLearning)
-	* [Supervised Learning](#SupervisedLearning)
-		* [Linear Regression](#LinearRegression)
-		* [Multiple Linear Regression](#MultipleLinearRegression)
-		* [K- Nearest Neighbors Regression](#K-NearestNeighborsRegression)
+* [Matplotlib and Seaborn](#Matplotlib-and-Seaborn)
+* [Statistics with Python](#Statistics-with-Python)
+* [Statistics with NumPy](#Statistics-with-NumPy)
+* [Hypothesis Testing with SciPy](#Hypothesis-Testing-with-SciPy)
+* [Data Cleaning](#Data-Cleaning)
+* [Data Minning](#Data-Minning)
+* [Data Anaylsis](#Data-Anaylsis)
+* [Web Scrapping](#Web-Scrapping)
+* [Machine Learning](#Machine-Learning)
+	* [Supervised Learning](#Supervised-Learning)
+		* [Linear Regression](#Linear-Regression)
+		* [Multiple Linear Regression](#Multiple-Linear-Regression)
+		* [K- Nearest Neighbors Regression](#K-Nearest-Neighbors-Regression)
 		* [Classification](#Classification)
-		* [Classification - K- Nearest Neighbors](#Classification-K-NearestNeighbors)
-		* [Logistic Regression](#LogisticRegression)
-		* [Support Vector Machine](#SupportVectorMachine)
-		* [Decision Tree](#DecisionTree)
-		* [Navies Bayes](#NaviesBayes)
-	 	* [AI Decision Making : Minimax](#AIDecisionMaking:Minimax)
-	* [Unsupervised Learning](#UnsupervisedLearning)
-	* [Preceptron and Neural Nets](#PreceptronandNeuralNets)
-	* [Natrual language Processing](#NatruallanguageProcessing)
+		* [Classification - K- Nearest Neighbors](#Classification-K-Nearest-Neighbors)
+		* [Logistic Regression](#Logistic-Regression)
+		* [Support Vector Machine](#Support-Vector-Machine)
+		* [Decision Tree](#Decision-Tree)
+		* [Navies Bayes](#Navies-Bayes)
+	 	* [AI Decision Making : Minimax](#AI-Decision-Making-:-Minimax)
+	* [Unsupervised Learning](#Unsupervised-Learning)
+	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
+	* [Natrual language Processing](#Natruallanguage-Processing)
 	
 ### List of Content
  
  #### SQL
- #### SQL-Features
+ #### SQL Features
  #### Python
  #### Pandas
  #### Numpy
- #### Matplotlib and Seaborn
+ #### MatplotlibandSeaborn
  #### Statistics with Python
  #### Statsitics with Numpy
  #### Hypothesis Testing With Scipy
