@@ -31,7 +31,7 @@ Tools and techniques which i learn during this are ;
 		* [Support Vector Machine](#Support-Vector-Machine)
 		* [Decision Tree](#Decision-Tree)
 		* [Navies Bayes](#Navies-Bayes)
-	 	* [AI Decision Making:Minimax](#AI-Decision-Making:Minimax)
+	 	* [AI Decision Making](#AI-Decision-Making)
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
 	* [Natrual language Processing](#Natrual-language-Processing)
@@ -115,7 +115,7 @@ Hypothesis testing is an act in statistics whereby an analyst tests an assumptio
  ######  Support Vector Machine
  ######  Decision Tree
  ######  Navies Bayes
- ###### AI Decision Making:Minimax
+ ###### AI Decision Making
  ##### Unsupervised Learning
  ##### Preceptron and Neural Nets
  ##### Natrual language Processing
