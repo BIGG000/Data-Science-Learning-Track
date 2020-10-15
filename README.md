@@ -31,7 +31,7 @@ Tools and techniques which i learn during this are ;
 		* [Support Vector Machine](#Support-Vector-Machine)
 		* [Decision Tree](#Decision-Tree)
 		* [Navies Bayes](#Navies-Bayes)
-	 	* [AI Decision Making : Minimax](#AI-Decision-Making:Minimax)
+	 	* [AI Decision Making:Minimax](#AI-Decision-Making:Minimax)
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
 	* [Natrual language Processing](#Natrual-language-Processing)
