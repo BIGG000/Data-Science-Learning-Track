@@ -30,7 +30,7 @@ Tools and techniques which i learn during this are ;
 		* [Support Vector Machine](#Support-Vector-Machine)
 		* [Decision Tree](#Decision-Tree)
 		* [Navies Bayes](#Navies-Bayes)
-	 	* [AI Decision Making (MiniMax)](#AI-Decision-Making(MiniMax))
+	 	* [AI Decision Making-MiniMax](#AI-Decision-Making-MiniMax)
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
 	* [Natrual language Processing](#Natrual-language-Processing)
@@ -121,7 +121,7 @@ Hypothesis testing is an act in statistics whereby an analyst tests an assumptio
  Decision Tree - Classification. Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes
  ######  Navies Bayes
  A naive Bayes classifier assumes that the presence (or absence) of a particular feature of a class is unrelated to the presence (or absence) of any other feature, given the class variable. ... Basically, it's "naive" because it makes assumptions that may or may not turn out to be correct.
- ###### AI Decision Making (MiniMax)
+ ###### AI Decision Making-MiniMax
  Given a game state, the minimax algorithm finds the decision that maximizes the minimum gain. In other words, if you assume your opponent will make decisions that minimize your gain, the algorithm finds the move that will maximize it based on the options your opponent gives you.
  
  ##### Unsupervised Learning
@@ -132,3 +132,9 @@ Hypothesis testing is an act in statistics whereby an analyst tests an assumptio
  A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
  ##### Natrual language Processing
  Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that studies how machines understand human language. Its goal is to build systems that can make sense of text and perform tasks like translation, grammar checking, or topic classification
+
+### Note
+It just contain the Projects Code of my time during the Data Science, So if you want the resources to learn this things, so feel free to contact me.
+
+This repo, will help you to get the knowledege and the topics which is realy need to be a Data Science Career.If you like this repo so star.
+ThankYou :heart:
