@@ -55,15 +55,20 @@ Answering each part of a 5 question survey on customer satisfaction
 Clicking “Continue” on each step of a set of 5 onboarding modals
 Browsing a selection of products → Viewing a shopping cart → Making a purchase
 Generally, we want to know the total number of users in each step of the funnel, as well as the percent of users who complete each step.
+<img src = "images/funnels.png">
 
 
  * ##### Churn Anaylsis
  Customer churn is when a customer decides to stop using products or services from a company. Churn rate is the percent of subscribers that have canceled within a certain period.
- 
+ <img src = "images/churnrate.png">
+
  Calculation of a monthly customer churn rate is the number of customers who churned in the month divided by the total number of customers in the month. For example, if you had 100 customers at the beginning of the month and during month 5 of them canceled their subscriptions, customer churn rate is 5% (5/100). Here is a simple formula for calculating customer churn:
+<img src = "images/churn.jpeg">
+
 
 * ##### Marketing Attribuitions
 The Short Definition: Put simply, marketing attribution is the analytical science of determining which marketing tactics are contributing to sales or conversions. Marketing attribution is the practice of evaluating the marketing touchpoints a consumer encounters on their path to purchase.
+<img src = "images/ma.png">
 
 
 
