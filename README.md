@@ -33,3 +33,34 @@ Data science can be defined as a blend of mathematics, business acumen, tools, a
 	* Unsupervised Learning
 	* Preceptron and Neural Nets
 	* Natrual language Processing
+
+### List of Content
+ 
+ #### SQL
+ #### SQL-Features
+ #### Python
+ #### Pandas
+ #### Numpy
+ #### Matplotlib and Seaborn
+ #### Statistics with Python
+ #### Statsitics with Numpy
+ #### Hypothesis Testing With Scipy
+ #### Data Cleaning
+ #### Data Mining
+ #### Data Anaylsis
+ #### Web Scraping
+ #### Machine Learning
+ ##### Supervised Learning
+ ###### Linear Regression
+ ###### Multiple Linear Regression
+ ###### K- Nearest Neighbors Regression
+ ######  Classification
+ ######  Classification - K- Nearest Neighbors
+ ######  Logistic Regression
+ ######  Support Vector Machine
+ ######  Decision Tree
+ ######  Navies Bayes
+ ###### AI Decision Making : Minimax
+ ##### Unsupervised Learning
+ ##### Preceptron and Neural Nets
+ ##### Natrual Language Processing
