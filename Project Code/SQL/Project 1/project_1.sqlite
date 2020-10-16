@@ -1,0 +1,44 @@
+create table friends(
+  id interger,
+  name text,
+  birthday date
+);
+
+INSERT INTO friends (id, name, birthday) 
+VALUES (1, 'Jane Doe', '1990-05-30');
+
+insert into friends( id , name, birthday)
+values (2, 'daniyal', '1998-01-01');
+
+insert into friends(id , name, birthday)
+values (3, 'anas ', '1984-02-02');
+
+update friends
+set name = 'Jane Smith'
+where id = 1;
+
+alter table friends
+add column email TEXT;
+
+update friends
+set email ='jane@codecademy'
+where id=1;
+
+update friends 
+set email = 'anas@gmail.com'
+where id = 3;
+
+update friends
+set email = 'daniyal@gmail.com'
+where id = 2;
+
+delete from friends
+where id = 1;
+
+
+
+
+
+
+
+select * from friends;

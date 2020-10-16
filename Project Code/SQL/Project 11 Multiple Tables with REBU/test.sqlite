@@ -1,0 +1,45 @@
+--1
+select * from trips;
+select * from riders;
+select * from cars;
+
+--2
+-- primary key id
+-- primary key id
+-- primary key id
+
+--3
+SELECT riders.first,
+   riders.last,
+   cars.model
+FROM riders, cars;
+
+--4
+select * from trips left join riders
+on trips.rider_id = riders.id;
+
+--5
+select * from trips join cars
+on trips.car_id = cars.id;
+
+--6
+select * from riders union select * from riders2;
+
+--7
+select avg(cost) from trips;
+
+--8
+select * from riders 
+where total_trips < 500
+union
+select * from riders2
+where total_trips <500;
+
+--9 
+select count(*) from cars
+where status = 'active';
+
+--10
+select trips_completed from cars
+order by 1 desc limit 2;
+
