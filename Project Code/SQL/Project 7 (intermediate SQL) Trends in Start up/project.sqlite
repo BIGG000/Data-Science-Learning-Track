@@ -1,0 +1,63 @@
+--1
+select * from startups limit 2;
+
+--2
+select count(*) from startups;
+
+--3
+select sum(Valuation) as 'Total Value' from startups;
+
+--4
+select max(raised) from startups;
+
+--5
+select max(raised) from startups
+where stage = 'Seed';
+
+--6
+select min (founded) from startups;
+
+--7
+select avg(valuation) from startups;
+
+--8
+select category, avg(valuation) from startups
+group by 1;
+
+--9
+select category, round(avg(valuation),2) from startups
+group by 1;
+
+--10
+select category, round(avg(valuation),2) from startups
+group by 1
+order by 2 desc;
+
+--11
+
+select category, count(*) from startups
+group by 1;
+
+--12
+select category, count(*) as 'total' from startups
+group by 1
+having total >3
+order by 2 desc;
+
+--13
+select location , avg(employees) from startups
+group by 1;
+
+--14
+select location , avg(employees) from startups
+group by 1
+having AVG(employees)> 500;
+
+
+
+
+
+
+
+
+
