@@ -1,0 +1,37 @@
+ --1
+ select * from orders limit 10;
+
+--2
+select distinct order_date from orders
+order by order_date desc;
+
+--3
+select special_instructions from orders
+limit 20;
+
+--4
+
+select special_instructions from orders
+where special_instructions is not null;
+
+--5
+select special_instructions from orders
+where special_instructions is not null 
+order by special_instructions;
+
+--6
+select special_instructions from orders
+where special_instructions like '%sauce%';
+
+--7
+select special_instructions from orders
+where special_instructions like '%door%';
+
+--8
+select special_instructions from orders
+where special_instructions like '%box%';
+
+--9
+SELECT id AS '#',special_instructions AS 'Notes'
+FROM orders
+WHERE special_instructions LIKE '%box%';
