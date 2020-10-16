@@ -1,0 +1,38 @@
+ --1
+ select * from met limit 10;
+
+--2
+select count(*) from met;
+
+--3
+select count(*) from met 
+where category like '%celery%';
+
+--4
+select date, title, medium from met
+where date like '%1600%';
+
+--5
+select country, count(*) from met
+where country is not null
+group by 1
+order by 2 desc
+limit 10;
+
+--6
+select category, count(*) from met 
+group by 1 
+having count (*) >100;
+
+--7
+select case
+  when medium like '%gold%' then 'Gold'
+  when medium like '%silver%' then 'Silver'
+  else null
+  end as 'bling',
+  count(*)
+from met
+where bling is not null 
+group by 1
+order by 2 desc;
+
