@@ -47,7 +47,7 @@ Many RDBMSs use SQL (and variations of SQL) to access the data in tables. For ex
 * ##### Funnel Anaylsis
 A funnel is a marketing model which illustrates the theoretical customer journey towards the purchase of a product or service. Oftentimes, we want to track how many users complete a series of steps and know which steps have the most number of users giving up.
 
-Some examples include:
+Some examples include: 
 
 Answering each part of a 5 question survey on customer satisfaction
 Clicking “Continue” on each step of a set of 5 onboarding modals
