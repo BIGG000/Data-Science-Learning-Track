@@ -34,7 +34,7 @@ Tools and techniques which i learn during this are ;
 	* [Unsupervised Learning](#Unsupervised-Learning)
 	* [Preceptron and Neural Nets](#Preceptron-and-NeuralNets)
 	* [Natrual language Processing](#Natrual-language-Processing)
-	
+	 
 ### List of Content
   #### SQL
 SQL (Structured Query Language) is a programming language used to communicate with data stored in a relational database management system. SQL syntax is similar to the English language, which makes it relatively easy to write, read, and interpret.
